@@ -35,7 +35,7 @@ body {
 
         .body {
             background-image: url("../images/backg.jpg");
-            background-size: cover;
+            background-size: 100% 100%;
             text-align: center;
             padding: 20px;
         }
